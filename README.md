@@ -4,7 +4,7 @@ OpenPose的简单实现<br/>
 # Usage:
 这是一个linux caffe的实现版本<br/>
 1.修改caffe的Makefile，CXXFLAGS += -std=c++11，使得支持c++11<br/>
-2.把easyOpenPose.cpp复制到caffe的examples目录下<br/>
+2.新建目录caffe/examples/EasyOpenPose，并把easyOpenPose.cpp复制进去<br/>
 3.编译caffe即可<br/>
 
 # 效果
