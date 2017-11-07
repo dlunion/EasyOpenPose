@@ -33,7 +33,7 @@ finish. save result to 'test_openpose.jpg', people: 3
 [pose_iter_440000.caffemodel下载地址2-强烈不建议，因为很费流量，很费钱](http://www.zifuture.com/fs/12.github/OpenPose/pose_iter_440000.caffemodel)
 
 # Windows的实现
-参照这里：[https://github.com/dlunion/OpenPose](https://github.com/dlunion/OpenPose)
+[https://github.com/dlunion/OpenPose](https://github.com/dlunion/OpenPose)
 
 # 引用
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
