@@ -34,3 +34,6 @@ finish. save result to 'test_openpose.jpg', people: 3
 
 # Windows的实现
 参照这里：[https://github.com/dlunion/OpenPose](https://github.com/dlunion/OpenPose)
+
+# 引用
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
