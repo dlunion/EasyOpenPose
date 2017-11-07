@@ -14,6 +14,7 @@ OpenPose的简单实现
 # 使用方法
 base_width和base_height是输入网络时候的宽高度，直接影响效果和消耗的时间
 >bin imagefile gpuid[-1] base_width[656] base_height[368] [deploy] [caffemodel]
+>../../.build_release/examples/openpose/main.bin test.jpg 3 500 500
 
 输出结果
 ```Bash
